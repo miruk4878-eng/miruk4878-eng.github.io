@@ -21,18 +21,18 @@ document.addEventListener("DOMContentLoaded", () => {
   const members = [
     {
       icon: "fa-solid fa-house-chimney-medical",
-      name: "PTの家",
-      text: "専門性をやさしく届けることを大切にしているポートフォリオです。見やすさ、使いやすさ、信頼感のある表現を軸に、Webサイト制作に取り組んでいます。",
+      name: "yamada PT",
+      text: "基本適当なこと言っています。",
     },
     {
       icon: "fa-solid fa-heart-pulse",
-      name: "ケア担当",
-      text: "相手の気持ちに寄り添いながら、安心して読める文章とやさしい導線づくりを意識しています。",
+      name: "はくなん",
+      text: "生活習慣おわってる",
     },
     {
       icon: "fa-solid fa-laptop-code",
-      name: "Web担当",
-      text: "HTML、CSS、JavaScriptを使って、見た目の美しさと操作のしやすさを両立したページを制作します。",
+      name: "はむ公",
+      text: "げーむしてます",
     },
   ];
 
